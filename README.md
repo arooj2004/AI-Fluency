@@ -5,9 +5,10 @@ Welcome to my **AI-Fluency** repository! This is a personal, structured learning
 ## 🗂️ Repository Structure
 The learning path is organized by weeks.
 
-*   **`FL-01 Week 1/`** : Decide What you are provung.
+*   **`FL-01 Week 1/`** : Decide What you are proving.
 *   **`FL-02 Week 2/`** : Frame your Work
 *   **`Fl-03 Week 3/`** : Map it & Give it a Face
+*   **`FL-04 Week 4/`** : Pick the Stack
 *(More weeks will be added as the journey progresses)*
 
 ## 📖 Purpose
