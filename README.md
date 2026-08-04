@@ -9,6 +9,7 @@ The learning path is organized by weeks.
 *   **`FL-02 Week 2/`** : Frame your Work
 *   **`Fl-03 Week 3/`** : Map it & Give it a Face
 *   **`FL-04 Week 4/`** : Pick the Stack
+*   **`FL-05 Week 5/`** : Ship the Ugly Version
 *(More weeks will be added as the journey progresses)*
 
 ## 📖 Purpose
